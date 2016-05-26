@@ -15,7 +15,7 @@
      
      Before you start using the UI 3.0 Toolkit, you need to understand
      the structure of the lab. 
-     [images][lab-structure.png]
+     [images][Lab structure.png]
      
      After conversion, your lab should match the directory structure as
      below. For Example, this is how a lab structure should like
