@@ -14,7 +14,8 @@
 ** How to Identify the Template of your Lab
      
      Before you start using the UI 3.0 Toolkit, you need to understand
-     the [images][lab-structure.png]
+     the structure of the lab. 
+     [images][lab-structure.png]
      
      After conversion, your lab should match the directory structure as
      below. For Example, this is how a lab structure should like
