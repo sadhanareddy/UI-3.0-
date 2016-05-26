@@ -14,7 +14,7 @@
 ** How to Identify the Template of your Lab
      
      Before you start using the UI 3.0 Toolkit, you need to understand
-     the [[https://docs.google.com/drawings/d/1UHGWxjOI1KJF1sx3niS6rLynPLpRkrFLdLbAIhfeXhk/edit][lab-structure.png]]
+     the [images][lab-structure.png]
      
      After conversion, your lab should match the directory structure as
      below. For Example, this is how a lab structure should like
@@ -48,7 +48,7 @@
     been converted to UI-3.0 or not. If you followed the above steps
     properly, you should be able to see your lab in the UI-3.0 format.
 
-    [[../images/phy-sci.png]]
+    [[images/phy-sci.png]]
 
 ** If sources are partially updated/converted to UI-3.0, please do the following to make css work properly.
 
